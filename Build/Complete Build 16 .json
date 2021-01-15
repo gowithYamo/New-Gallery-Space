@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "APP Gallery",
+"productVersion": "0.1",
+"dataUrl": "Complete Build 16 .data.unityweb",
+"wasmCodeUrl": "Complete Build 16 .wasm.code.unityweb",
+"wasmFrameworkUrl": "Complete Build 16 .wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.12f1"
+}
